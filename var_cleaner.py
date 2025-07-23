@@ -121,6 +121,8 @@ def main() -> None:
         else:
             print("Deletion cancelled.")
 
+    input("Press Enter to exit...")
+
 
 if __name__ == "__main__":
     main()
